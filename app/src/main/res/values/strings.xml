@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Deftosft</string>
+    <string name="assignment_1">Assignment One</string>
+    <string name="assignment_2">Assignment Second</string>
+
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+
+    <string name="add">Add</string>
+    <string name="add_item">+1</string>
+    <string name="remove_item">-1</string>
+</resources>
